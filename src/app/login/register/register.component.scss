@@ -3,7 +3,7 @@
     top: 50%;
     left: 50%;
     margin-left: -15vw;
-    margin-top: -20vh;
+    margin-top: -30vh;
 }
 
 .cart-width{
@@ -14,7 +14,6 @@
     width: 100%;
 }
 
-
 @media only screen and (max-width: 700px) {
     .centered{
         display: table;
@@ -22,7 +21,7 @@
         margin-left: auto;
         margin-right: auto;
         margin-top: 0px;
-        top: 35%;
+        top: 25%;
         left: 0%;
     }
 
